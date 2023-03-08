@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/AVRStudio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>D:\AVRStudio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/AVRStudio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\Debug\R11679913_Rodriguez_P500.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>R11679913_Rodriguez_P500.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>R11679913_Rodriguez_P500.map</FILE>
+  <FILE>R11679913_Rodriguez_P500.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>11</LINE></MAIN>
+  <MOTORCONTROL><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>29</LINE></MOTORCONTROL>
+  <ZERO><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>30</LINE></ZERO>
+  <WAIT0><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>32</LINE></WAIT0>
+  <DELAY><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>97</LINE></DELAY>
+  <INTERLOOP><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>110</LINE></INTERLOOP>
+  <FORTY><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>42</LINE></FORTY>
+  <ON40LOOP><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>47</LINE></ON40LOOP>
+  <OFF40LOOP><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>53</LINE></OFF40LOOP>
+  <SEVENTY><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>63</LINE></SEVENTY>
+  <ON70LOOP><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>68</LINE></ON70LOOP>
+  <OFF70LOOP><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>74</LINE></OFF70LOOP>
+  <DC><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>83</LINE></DC>
+  <WAIT><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>86</LINE></WAIT>
+  <DELOOP1><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>99</LINE></DELOOP1>
+  <DELOOP0><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>100</LINE></DELOOP0>
+  <WAITER2><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>113</LINE></WAITER2>
+  <WAITER1><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>114</LINE></WAITER1>
+  <WAITER0><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P500\R11679913_Rodriguez_P500\main.asm</FILE><LINE>115</LINE></WAITER0>
+ </LABELS>
+</ASSEMBLER_INFO>

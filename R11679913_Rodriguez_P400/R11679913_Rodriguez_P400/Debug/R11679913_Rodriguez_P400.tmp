@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P400\R11679913_Rodriguez_P400\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/AVRStudio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>D:\AVRStudio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P400\R11679913_Rodriguez_P400\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/AVRStudio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>D:/AVRStudio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P400\R11679913_Rodriguez_P400\Debug\R11679913_Rodriguez_P400.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>R11679913_Rodriguez_P400.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>R11679913_Rodriguez_P400.map</FILE>
+  <FILE>R11679913_Rodriguez_P400.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <LOOP><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P400\R11679913_Rodriguez_P400\main.asm</FILE><LINE>22</LINE></LOOP>
+  <DELAY><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P400\R11679913_Rodriguez_P400\main.asm</FILE><LINE>30</LINE></DELAY>
+  <LOOP3><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P400\R11679913_Rodriguez_P400\main.asm</FILE><LINE>32</LINE></LOOP3>
+  <LOOP2><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P400\R11679913_Rodriguez_P400\main.asm</FILE><LINE>33</LINE></LOOP2>
+  <LOOP1><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P400\R11679913_Rodriguez_P400\main.asm</FILE><LINE>34</LINE></LOOP1>
+ </LABELS>
+</ASSEMBLER_INFO>

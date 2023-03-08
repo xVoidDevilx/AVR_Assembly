@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328"</DEVICE>
+ <WORKING_DIR>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P300\R11679913_Rodriguez_P300\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/AVRStudio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>D:\AVRStudio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P300\R11679913_Rodriguez_P300\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/AVRStudio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328def.inc</FILE>
+  <FILE>D:/AVRStudio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328DEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P300\R11679913_Rodriguez_P300\Debug\R11679913_Rodriguez_P300.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>R11679913_Rodriguez_P300.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>R11679913_Rodriguez_P300.map</FILE>
+  <FILE>R11679913_Rodriguez_P300.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MOD10><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P300\R11679913_Rodriguez_P300\main.asm</FILE><LINE>36</LINE></MOD10>
+  <HERE><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P300\R11679913_Rodriguez_P300\main.asm</FILE><LINE>33</LINE></HERE>
+  <divide><FILE>C:\Users\silas\Desktop\AVR Proj\R11679913_Rodriguez_P300\R11679913_Rodriguez_P300\main.asm</FILE><LINE>40</LINE></divide>
+ </LABELS>
+</ASSEMBLER_INFO>
